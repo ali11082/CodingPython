@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 fdyjgyhg
 line 2
+=======
+>>>>>>> parent of bc587ad (revert test1)
+line 34
