@@ -1,4 +1,3 @@
-a=0
 h=0
 r="hichi"
 while (r!="ok"):
