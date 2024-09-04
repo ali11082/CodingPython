@@ -1,2 +1,0 @@
-line1 f
-line 2 f
